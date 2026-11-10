@@ -73,19 +73,3 @@ Atualmente, estou construindo minha trajetória na área de tecnologia e estou a
 - Construir soluções que gerem valor e resolvam problemas reais.
 - Conquistar oportunidades profissionais na área de tecnologia.
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo123&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
-### "Transformando conhecimento em soluções e ideias em projetos."
-
-**Obrigado pela visita!** 🚀
-
-</div>
